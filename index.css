@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: rgba(250, 128, 114, 0.603);
+}
+h1{
+    font-size: 30px;
+    color: white;
+    
+}
